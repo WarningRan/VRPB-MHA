@@ -17,7 +17,7 @@
   - [ ] 调好SSA代码，得出mean等表格实验结果，更新新的实验结果，形成完整的SSA实验报告
   - [ ] 记录在调SSA代码的过程中，发现的问题，如何解决问题，和效果怎么样（以图表或文字描述的形式）
   - [ ] 写NSGA3代码，并完成报告中思路和重点等部分
-  - [ ] 看论文，写论文笔记（https://ieeexplore.ieee.org/abstract/document/8786111；https://www.hindawi.com/journals/complexity/2019/6291968/和其他）
+  - [ ] 看论文，写论文笔记（关于车辆路径规划的论文）
 - [Ktouguai](https://github.com/Ktouguai)
   - [ ] 学习、了解多目标的概念
   - [ ] 
