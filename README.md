@@ -1,4 +1,9 @@
 # VRPB-MHA
+Overview
+This repository hosts the implementation and research framework for developing and evaluating Distributed Metaheuristic Algorithms (MHA) aimed at solving the Vehicle Routing Problem with Backhauls (VRPB).
+
+The primary goal is to create a robust, modular, and performance-driven platform to test various metaheuristics, particularly focusing on multi-objective optimization techniques, for complex VRPB scenarios.
+
 
 基于分布式元启发式算法的VRPB系统
 
